@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Two activities</string>
+    <string name="activity2_name">Second Activity</string>
+    <string name="text_header">Message Received</string>
+    <string name="editText_main">Masukkan Pesan</string>
+    <string name="button_second">SEND</string>
+    <string name="editText_second">Ketik Pesan</string>
+    <string name="text_header_reply">Message Received</string>
+</resources>
